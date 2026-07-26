@@ -20,6 +20,7 @@ arbitrarily. Please do not expect it to be polished.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Fast Feedback](#fast-feedback)
@@ -53,6 +54,7 @@ arbitrarily. Please do not expect it to be polished.
   - [Close the Loops, Acknowledge Communication, Always Follow Up](#close-the-loops-acknowledge-communication-always-follow-up)
   - [Don't block the flow of communication](#dont-block-the-flow-of-communication)
   - [Communicate with Clear Structure](#communicate-with-clear-structure)
+  - [Use BLUF (Bottom Line Up Front)](#use-bluf-bottom-line-up-front)
   - [Give Structure-Preserving Responses](#give-structure-preserving-responses)
   - [Keep Everyone in the Loop](#keep-everyone-in-the-loop)
   - [Leverage Early Expert Review and Broad Feedback](#leverage-early-expert-review-and-broad-feedback)
@@ -799,6 +801,22 @@ A clear structure does not guarantee a structured response unless it is
 explicitly agreed upon. However, many engineers will naturally respond using the
 same structure. Communication becomes much easier when all parties use and
 understand similar formats.
+
+### Use BLUF (Bottom Line Up Front)
+
+BLUF (Bottom Line Up Front) is a communication principle originating from
+military communication. Present the main point first, then provide supporting
+details. Readers should understand the conclusion, decision, or request without
+reading the entire message. This is especially important in engineering, where
+people often have limited time and need to decide quickly whether they must take
+action or read further.
+
+BLUF is often combined with active voice. State who did what instead of using
+passive constructions. This makes messages easier to understand and reduces
+ambiguity about ownership and actions.
+
+See also:
+[BLUF on Wikipedia](https://en.wikipedia.org/wiki/BLUF_%28communication%29).
 
 ### Give Structure-Preserving Responses
 
@@ -1685,7 +1703,8 @@ design constraint.
   OOP class/object with good data/behavior balance.
 - Separate general-purpose from application-specific
 - Separate application-level code from system-level code
-- Separate core behavior and business logic from lower-level infrastructure details. 
+- Separate core behavior and business logic from lower-level infrastructure
+  details.
 - Separate methods that read from methods that write
 - Separate decision from condition
 - Separate/abstract interface from implementation
@@ -2029,6 +2048,7 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
+
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features

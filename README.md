@@ -55,6 +55,7 @@ arbitrarily. Please do not expect it to be polished.
   - [Don't block the flow of communication](#dont-block-the-flow-of-communication)
   - [Communicate with Clear Structure](#communicate-with-clear-structure)
   - [Use BLUF (Bottom Line Up Front)](#use-bluf-bottom-line-up-front)
+  - [Compose Complete Messages Before Sending](#compose-complete-messages-before-sending)
   - [Give Structure-Preserving Responses](#give-structure-preserving-responses)
   - [Keep Everyone in the Loop](#keep-everyone-in-the-loop)
   - [Leverage Early Expert Review and Broad Feedback](#leverage-early-expert-review-and-broad-feedback)
@@ -817,6 +818,35 @@ ambiguity about ownership and actions.
 
 See also:
 [BLUF on Wikipedia](https://en.wikipedia.org/wiki/BLUF_%28communication%29).
+
+### Compose Complete Messages Before Sending
+
+Chat tools such as Slack are asynchronous communication channels. Avoid sending
+a greeting or an incomplete message and then making the reader wait while the
+rest of the message is being written.
+
+Instead, compose the full message first and send it as one complete message.
+Ideally, structure it using BLUF: start with the main point, request, or
+decision, followed by supporting details.
+
+This reduces unnecessary attention switching and allows the reader to understand
+the context immediately. A typing indicator should not become a reason for
+someone to wait and watch the message being created.
+
+**Example**
+
+Avoid:
+
+> Hey
+>
+> (typing...)
+>
+> I wanted to ask you about the deployment issue from yesterday...
+
+Prefer:
+
+> The deployment issue from yesterday is blocking the release. Could you check
+> whether the configuration change was applied? Details: ...
 
 ### Give Structure-Preserving Responses
 

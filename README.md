@@ -20,7 +20,6 @@ arbitrarily. Please do not expect it to be polished.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Fast Feedback](#fast-feedback)
@@ -176,6 +175,7 @@ arbitrarily. Please do not expect it to be polished.
   - [Sound Check](#sound-check)
   - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
   - [Meeting Agenda](#meeting-agenda)
+  - [Present and Confirm the Agenda at the Start of the Meeting](#present-and-confirm-the-agenda-at-the-start-of-the-meeting)
   - [Meeting Notes](#meeting-notes)
   - [Capturing Meeting Results](#capturing-meeting-results)
   - [Briefing In](#briefing-in)
@@ -2078,7 +2078,6 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
-
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features
@@ -2484,6 +2483,19 @@ A well-prepared meeting runs smoothly when attendees know what to expect.
 - Is the agenda known in advance?
 - Can you or your team define it?
 - Are there questions or answers that can be prepared beforehand?
+
+### Present and Confirm the Agenda at the Start of the Meeting
+
+When starting a meeting, consider presenting the entire agenda to the group
+before going into the first topic. This helps participants prepare for what is
+coming. Presenting the agenda upfront gives everyone a better understanding of
+the meeting's structure. It can also be a good opportunity to rearrange agenda
+items if some topics are closely related and can be discussed together.
+Additionally, participants whose only concern is a specific topic may be able to
+leave the meeting once that topic has been covered. Starting a meeting without
+first reviewing and confirming the agenda leaves participants without a clear
+overview of the discussion. As a result, they may not fully understand the
+meeting's structure or how the individual topics fit together.
 
 ### Meeting Notes
 

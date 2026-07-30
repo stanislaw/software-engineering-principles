@@ -171,6 +171,7 @@ arbitrarily. Please do not expect it to be polished.
   - [Less Prose, More Structure](#less-prose-more-structure)
   - [Too Much Structure Overload](#too-much-structure-overload)
   - [Encyclopedic Document](#encyclopedic-document)
+  - [Organize Documents Around Complete Topics](#organize-documents-around-complete-topics)
 - [Meetings](#meetings)
   - [Sound Check](#sound-check)
   - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
@@ -2452,6 +2453,30 @@ should include a unifying narrative or story that makes it easier to follow,
 even if the underlying information is complex or diverse. A clear structure and
 logical flow can transform an overwhelming collection of information into a
 useful and accessible resource.
+
+### Organize Documents Around Complete Topics
+
+Not all documents are organized in a way that is easy for readers to follow,
+whether they are experts or newcomers. Sometimes the organizing principle is
+clear, but sometimes it is not.
+
+A common problem is that a document splits a single topic across multiple
+chapters. This can happen because the document is organized according to a
+mechanical principle that compromises the integrity of each topic (e.g.,
+splitting the content according to project phases or milestones), or because its
+structure evolved over time without a consistent organizing principle.
+
+As a result, the main narrative becomes fragmented. A reader must jump between
+multiple chapters to understand a single concept. In practice, the reader often
+feels compelled to mentally merge the scattered sections, remove duplicated
+information, and reconstruct the complete explanation.
+
+The lessons are simple:
+
+- Use a clear and consistent organizing principle.
+- Keep each major topic in one place whenever possible.
+- Minimize cross-cutting between chapters.
+- Make each chapter understandable on its own.
 
 ## Meetings
 

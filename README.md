@@ -53,6 +53,7 @@ arbitrarily. Please do not expect it to be polished.
   - [Close the Loops, Acknowledge Communication, Always Follow Up](#close-the-loops-acknowledge-communication-always-follow-up)
   - [Don't block the flow of communication](#dont-block-the-flow-of-communication)
   - [Communicate with Clear Structure](#communicate-with-clear-structure)
+  - [Re-create the Full Context Before Answering Questions](#re-create-the-full-context-before-answering-questions)
   - [Use BLUF (Bottom Line Up Front)](#use-bluf-bottom-line-up-front)
   - [Compose Complete Messages Before Sending](#compose-complete-messages-before-sending)
   - [Give Structure-Preserving Responses](#give-structure-preserving-responses)
@@ -803,6 +804,31 @@ A clear structure does not guarantee a structured response unless it is
 explicitly agreed upon. However, many engineers will naturally respond using the
 same structure. Communication becomes much easier when all parties use and
 understand similar formats.
+
+### Re-create the Full Context Before Answering Questions
+
+Many requests from upstream activities (e.g., systems engineering) or
+neighboring teams come in the form of very specific questions. These questions
+often imply that a similarly specific answer is appropriate. The trap is that
+the requester may not provide enough context. Answering without understanding
+the bigger picture can easily lead to inaccurate, incomplete, or misleading
+guidance.
+
+A more effective habit is to reconstruct the full context before answering.
+Instead of responding immediately, first understand **why** the information is
+needed, **what** the requester plans to do with it, and **how** it will be used
+downstream. This often reveals hidden assumptions, missing constraints, or a
+different underlying problem than the one originally asked.
+
+In practice, when someone asks a specific question, consider clarifying:
+
+- **Why** are you asking this?
+- **What** are you trying to achieve?
+- **How** will this information be used, and what are the downstream
+  consequences?
+
+Once the full context is clear, the answer is much more likely to be accurate,
+useful, and appropriate for the real problem.
 
 ### Use BLUF (Bottom Line Up Front)
 

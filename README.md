@@ -1,21 +1,20 @@
-# Notes on Software Engineering
+# Software Engineering Principles
 
-This repository contains a collection of notes and lessons learned that I have
-gathered over time during my work as a software engineer.
+This repository is a collection of principles, observations, and lessons learned
+from professional software engineering.
 
-These notes are not strict instructions to be followed; rather, they serve as
-soft guidelines and recommendations. They are most valuable when considered as a
-whole. Taken individually, some notes may even appear to contradict one another.
-Following them too rigidly can diminish their usefulness or, in some cases, lead
-to negative outcomes. There may also be some overlap between notes, so it's
-important not to interpret them too literally.
+The goal is not to prescribe strict rules, but to capture practical guidance
+that has proven useful in real engineering work. Many of these principles
+complement one another, and some may even appear to conflict depending on the
+context. They should therefore be understood as heuristics rather than absolute
+rules.
 
-Most of the notes are my own observations, though I occasionally quote from
-influential books and other resources. All notes with quotations include
-references to their sources.
+Most of the content is based on my own experience, supplemented where
+appropriate with ideas from books, articles, and other resources. Whenever I
+quote or closely reference external material, I include the original source.
 
-This repository is currently a draft, far from complete, and organized
-arbitrarily. Please do not expect it to be polished.
+The repository is a work in progress. It is being continuously expanded,
+reorganized, and refined as new ideas emerge and existing ones are improved.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -175,6 +175,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Encyclopedic Document](#encyclopedic-document)
   - [Organize Documents Around Complete Topics](#organize-documents-around-complete-topics)
 - [Meetings](#meetings)
+  - [Direct the meeting instead of letting it drift](#direct-the-meeting-instead-of-letting-it-drift)
   - [Sound Check](#sound-check)
   - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
   - [Meeting Agenda](#meeting-agenda)
@@ -2547,6 +2548,20 @@ The lessons are simple:
 - Make each chapter understandable on its own.
 
 ## Meetings
+
+### Direct the meeting instead of letting it drift
+
+Every meeting should have someone actively directing it. Without facilitation,
+discussions tend to drift between topics, repeat previous points, or spend too
+much time on low-priority issues.
+
+The meeting facilitator is responsible for keeping the discussion aligned with
+the agenda, moving the group to the next topic when appropriate, involving the
+right participants, and parking unrelated issues for later.
+
+Directing a meeting does not mean dominating the discussion. It means helping
+the group use its time effectively and ensuring that the meeting achieves its
+purpose.
 
 ### Sound Check
 

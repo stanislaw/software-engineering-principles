@@ -52,6 +52,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Close the Loops, Acknowledge Communication, Always Follow Up](#close-the-loops-acknowledge-communication-always-follow-up)
   - [Don't block the flow of communication](#dont-block-the-flow-of-communication)
   - [Communicate with Clear Structure](#communicate-with-clear-structure)
+  - [Giving Feedback on Substance vs. Style](#giving-feedback-on-substance-vs-style)
   - [Re-create the Full Context Before Answering Questions](#re-create-the-full-context-before-answering-questions)
   - [Use BLUF (Bottom Line Up Front)](#use-bluf-bottom-line-up-front)
   - [Compose Complete Messages Before Sending](#compose-complete-messages-before-sending)
@@ -806,6 +807,24 @@ A clear structure does not guarantee a structured response unless it is
 explicitly agreed upon. However, many engineers will naturally respond using the
 same structure. Communication becomes much easier when all parties use and
 understand similar formats.
+
+### Giving Feedback on Substance vs. Style
+
+When reviewing someone else's work, distinguish between feedback on substance
+and feedback on style. Substance concerns whether the work achieves its purpose:
+correctness, completeness, logic, technical decisions, assumptions, and
+requirements. Style concerns how the work is presented: wording, structure,
+formatting, naming, grammar, and tone.
+
+Be mindful of when to give each type of feedback. Match your feedback to the
+purpose of the discussion. If someone is asking for feedback on the content,
+focus on the content first and leave stylistic suggestions for later.
+Conversely, if someone is asking for help polishing the presentation, focus on
+style first and discuss substantive issues separately if needed.
+
+Separating these two types of feedback-and giving the right one at the right
+time-helps authors focus on the most important issues and makes reviews more
+effective.
 
 ### Re-create the Full Context Before Answering Questions
 

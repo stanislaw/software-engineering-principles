@@ -138,6 +138,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
 - [Version control, Git, code reviews](#version-control-git-code-reviews)
   - [Git Commit Names: Context: Title](#git-commit-names-context-title)
   - [Simplifying Complex Branches](#simplifying-complex-branches)
+  - [Iterative Code Review: Clearing One Layer at a Time](#iterative-code-review-clearing-one-layer-at-a-time)
   - [Single Responsibility Principle for Merge Requests](#single-responsibility-principle-for-merge-requests)
   - [The Moving and Changing Anti-Pattern](#the-moving-and-changing-anti-pattern)
   - [Deferred Moving Anti-Pattern](#deferred-moving-anti-pattern)
@@ -2125,14 +2126,14 @@ goodwill.
 My experience of reading commits shows that I read commit titles better when
 they clearly indicate a context. A commit context can be the name of a topic of
 work, a software component name, or a software component folder. If I see a
-commit in the form context: title, I immediately recognize that it is about
+commit in the form `context: title`, I immediately recognize that it is about
 something within the scope of that context.
 
 The Conventional Commits specification implements this idea nicely because the
-context is placed inside parentheses, for example: feat(parser): support
-multiline attributes or fix(ui): prevent crash on empty input. Even without
-reading the commit body, the reader can quickly classify the change and decide
-whether it is relevant.
+context is placed inside parentheses, for example:
+`feat(parser): support multiline attributes` or
+`fix(ui): prevent crash on empty input`. Even without reading the commit body,
+the reader can quickly classify the change and decide whether it is relevant.
 
 In practice, the exact syntax matters less than the consistency of applying the
 idea. A short, stable context followed by a concise title significantly reduces
@@ -2160,6 +2161,23 @@ reviewers can focus on a smaller scope without being distracted by irrelevant
 details. A practical rule of thumb is the following: if there is an opportunity
 to split the work, it is usually better to do so, as this often pays off through
 easier reviews and faster integration.
+
+### Iterative Code Review: Clearing One Layer at a Time
+
+Trivial issues can hide more serious problems during a code review. When the
+first version contains formatting problems, unclear names, unnecessary
+complexity, or obvious mistakes, the reviewer may spend most of their attention
+on these surface-level issues.
+
+After the first layer is corrected, deeper problems often become visible:
+incorrect assumptions, weak abstractions, missing error handling, or
+architectural issues. This is why code review is often iterative. Each review
+round clears another layer and makes the remaining problems easier to see.
+
+Ideally, authors should fix simple and obvious issues before requesting a
+review. This allows reviewers to focus on more important problems earlier. In
+practice, however, this is not always possible, especially when early feedback
+is needed or the design itself is still under discussion.
 
 ### Single Responsibility Principle for Merge Requests
 

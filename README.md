@@ -169,6 +169,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [The Illusion of Easy Documentation](#the-illusion-of-easy-documentation)
   - [Software Design Document](#software-design-document)
   - [Less Prose, More Structure](#less-prose-more-structure)
+  - [One topic per section, one idea per paragraph](#one-topic-per-section-one-idea-per-paragraph)
   - [Too Much Structure Overload](#too-much-structure-overload)
   - [Encyclopedic Document](#encyclopedic-document)
   - [Organize Documents Around Complete Topics](#organize-documents-around-complete-topics)
@@ -2447,6 +2448,31 @@ Some of the important tools that communicate order in technical documentation:
 - Document structure and table of contents
 - Diagrams
 - Tables.
+
+### One topic per section, one idea per paragraph
+
+A document is easier to read when each section focuses on a single topic and
+each paragraph develops a single idea.
+
+A section should cover one coherent subject. If it starts introducing unrelated
+topics, readers lose the thread of the discussion and have to mentally separate
+the content themselves.
+
+This principle applies recursively. If a topic is too broad to fit naturally
+into a single section, decompose it into subsections. Each subsection should
+cover one coherent subtopic and should be understandable on its own. Continue
+this decomposition until each level of the document has a clear and focused
+purpose.
+
+Similarly, a paragraph should communicate one main idea. When multiple ideas are
+mixed together, readers must repeatedly switch context, making the text harder
+to follow. If a paragraph naturally shifts to a new point, it is usually a good
+place to start a new paragraph.
+
+Keeping one topic per section and one idea per paragraph makes documents easier
+to navigate, understand, and maintain. It also simplifies future updates,
+because related information is located in one place rather than scattered across
+the document.
 
 ### Too Much Structure Overload
 

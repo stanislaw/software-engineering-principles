@@ -67,6 +67,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Share and Improve Team Workflows](#share-and-improve-team-workflows)
   - [Keep Team Knowledge Alive](#keep-team-knowledge-alive)
   - [Create a Superset of Conflicting Interests or Clarify the Problem](#create-a-superset-of-conflicting-interests-or-clarify-the-problem)
+  - [Avoid "us vs. them". Use names instead.](#avoid-us-vs-them-use-names-instead)
 - [Complexity and Cognitive Load](#complexity-and-cognitive-load)
   - [Solving Right Problems](#solving-right-problems)
   - [Solutions Are Context-Driven](#solutions-are-context-driven)
@@ -1072,6 +1073,22 @@ those goals must be refined, agreed upon, or sacrificed.
 In any case, once the conflict is clearly defined, there should be fewer hard
 feelings, even if the final solution does not reflect every participant's
 perspective.
+
+### Avoid "us vs. them". Use names instead.
+
+Avoid referring to groups as us and them whenever possible. This framing creates
+unnecessary division and can make discussions feel confrontational.
+
+This is especially important when people are under pressure. Tight deadlines,
+conflicts, or stressful situations naturally encourage tribal thinking and make
+it easier to see others as opponents rather than collaborators.
+
+Instead, refer to the specific teams, organizations, or people involved. For
+example, write "the XYZ team", "the customer", or "Alice and Bob" instead of
+"we" and "they".
+
+Using explicit names makes communication more precise, reduces ambiguity, and
+helps keep discussions focused on collaboration rather than group identity.
 
 ## Complexity and Cognitive Load
 

@@ -26,6 +26,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Break Down Work](#break-down-work)
   - [Isolate Problems into Safe Sandboxes](#isolate-problems-into-safe-sandboxes)
   - [Look Outside Your Immediate Task, Maintain the Bigger Picture](#look-outside-your-immediate-task-maintain-the-bigger-picture)
+  - [Think Upstream and Downstream](#think-upstream-and-downstream)
   - [Avoid Work That Can Be Avoided](#avoid-work-that-can-be-avoided)
   - [Understand and Respect the Customer](#understand-and-respect-the-customer)
   - [Choose Where to Innovate (Carefully)](#choose-where-to-innovate-carefully)
@@ -335,6 +336,30 @@ surrounding context.
 
 Framing the problem this way helps readers, especially future engineers, orient
 themselves and understand the significance of the solution that follows.
+
+### Think Upstream and Downstream
+
+Engineering work is part of a chain. Every task has **upstream** inputs and
+**downstream** consumers.
+
+**Upstream** includes the people, teams, requirements, and systems that provide
+the inputs to your work. **Downstream** includes everyone who depends on your
+outputs.
+
+This upstream-to-downstream flow is also the direction of the
+[V-model](https://en.wikipedia.org/wiki/V-model): work flows from requirements
+through design and implementation to integration, verification, and operations.
+
+Problems become more expensive to fix as they move downstream. A missing
+requirement or poor interface is usually much easier and cheaper to correct
+during requirements or design than after implementation, integration, testing,
+or operations. For this reason, consider downstream consequences as early as
+possible.
+
+When making decisions, think in both directions. Understand where your inputs
+come from and how your outputs will affect the work that follows. Engineers who
+do this tend to build systems that are easier to integrate, verify, operate, and
+maintain.
 
 ### Avoid Work That Can Be Avoided
 

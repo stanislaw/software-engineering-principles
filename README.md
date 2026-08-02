@@ -183,6 +183,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
   - [Meeting Agenda](#meeting-agenda)
   - [Present and Confirm the Agenda at the Start of the Meeting](#present-and-confirm-the-agenda-at-the-start-of-the-meeting)
+  - [Balance the Agenda with the Meeting Flow](#balance-the-agenda-with-the-meeting-flow)
   - [Meeting Notes](#meeting-notes)
   - [Meeting Notes: Manual vs. Automatic](#meeting-notes-manual-vs-automatic)
   - [Capturing Meeting Results](#capturing-meeting-results)
@@ -2667,6 +2668,23 @@ leave the meeting once that topic has been covered. Starting a meeting without
 first reviewing and confirming the agenda leaves participants without a clear
 overview of the discussion. As a result, they may not fully understand the
 meeting's structure or how the individual topics fit together.
+
+### Balance the Agenda with the Meeting Flow
+
+A good meeting facilitator balances two competing goals. On one hand, the
+facilitator should keep the meeting focused, follow the agenda, and prevent
+unnecessary side discussions.
+
+On the other hand, the participants are often best prepared to discuss only a
+subset of the agenda. Sometimes an unexpected discussion emerges because the
+right people are present at the right time. These conversations can produce the
+most valuable outcomes, even if they were not part of the original plan.
+
+A facilitator should therefore use judgment rather than follow the agenda
+mechanically. Sometimes it is best to bring the discussion back on track. At
+other times, it is better to let the conversation flow naturally and adjust the
+agenda to take advantage of the opportunity. The agenda is a tool to help the
+meeting, not the purpose of the meeting itself.
 
 ### Meeting Notes
 

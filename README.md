@@ -102,6 +102,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Bad Design in House](#bad-design-in-house)
   - [Unnecessary Flexibility](#unnecessary-flexibility)
   - [Black Box with a Green Play Button](#black-box-with-a-green-play-button)
+  - [Clear entry points](#clear-entry-points)
   - [Single Source Concept and Its Exceptions](#single-source-concept-and-its-exceptions)
   - [Resilience to Change vs Fixed Perfect Solutions](#resilience-to-change-vs-fixed-perfect-solutions)
   - [Two Almost Identical Entities](#two-almost-identical-entities)
@@ -1677,6 +1678,38 @@ authority who decided to rely on a given design a while ago.
 Ideal interface for a system of arbitrary complexity is a black box with a green
 play button on it - you take the box, press green button and it just works. The
 second ideal interface is when you also have a red button to stop the system.
+
+### Clear entry points
+
+Most software artifacts have one or a few entry points that define how they are
+used. Examples include a `main()` function, a public API, a package root, a
+top-level class, a document or a document section.
+
+When learning an unfamiliar codebase or document, start by finding these entry
+points. They often reveal the overall control flow, responsibilities, and the
+main abstractions before you dive into implementation details.
+
+The same principle applies recursively. After finding the entry point to a
+system, identify the entry points of its major components. Following this
+control hierarchy helps build a mental model from the top down instead of
+getting lost in low-level details.
+
+When designing software or documentation, make these entry points obvious. A
+well-designed artifact should guide a newcomer toward the right starting point
+instead of forcing them to discover it by trial and error.
+
+Examples of good entry points include:
+
+- A class with its public API grouped at the top, followed by implementation
+  details (the newspaper metaphor).
+- A document with a clear table of contents and logical section hierarchy.
+- An introduction that explains the structure of the document and gives a
+  top-down overview before presenting the details.
+- A package with a small, well-defined public interface instead of exposing
+  internal implementation details.
+
+A clear entry point reduces the effort required to understand a system. It helps
+readers orient themselves before they begin exploring the details.
 
 ### Single Source Concept and Its Exceptions
 

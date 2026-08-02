@@ -184,6 +184,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Meeting Agenda](#meeting-agenda)
   - [Present and Confirm the Agenda at the Start of the Meeting](#present-and-confirm-the-agenda-at-the-start-of-the-meeting)
   - [Meeting Notes](#meeting-notes)
+  - [Meeting Notes: Manual vs. Automatic](#meeting-notes-manual-vs-automatic)
   - [Capturing Meeting Results](#capturing-meeting-results)
   - [Briefing In](#briefing-in)
   - [Briefing Out](#briefing-out)
@@ -2676,6 +2677,23 @@ recorded.
 
 - If your team owns the agenda, align meeting notes with the planned topics.
 - Structure notes so key points and next steps are clear.
+
+### Meeting Notes: Manual vs. Automatic
+
+Taking meeting notes manually requires at least one participant to understand
+the discussion well enough to summarize it. This requires additional effort, but
+it also forces active processing of the information. If the notes are shared on
+the screen during the meeting, other participants can review them, correct
+mistakes, and confirm a shared understanding of what was discussed.
+
+Automatically generated meeting transcripts or AI summaries reduce this mental
+effort. While they can be valuable as a record of the meeting, they do not
+provide the same benefit of forcing participants to process and validate the
+information as it is being discussed.
+
+AI-generated notes are therefore best treated as a complement to manual
+note-taking, not a complete replacement. The value of manual notes is not only
+the final document but also the thinking that happens while creating it.
 
 ### Capturing Meeting Results
 

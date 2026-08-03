@@ -1,20 +1,21 @@
 # Software Engineering Principles
 
-This repository is a collection of principles, observations, and lessons learned
-from professional software engineering.
+This is my personal collection of principles, observations, and lessons learned
+over years of working as a software engineer.
 
-The goal is not to prescribe strict rules, but to capture practical guidance
-that has proven useful in real engineering work. Many of these principles
+I don't intend it as a set of strict rules. It is practical guidance that has
+proven useful to me in real engineering work. Many of these principles
 complement one another, and some may even appear to conflict depending on the
-context. They should therefore be understood as heuristics rather than absolute
+context - that's intentional. I think of them as heuristics rather than absolute
 rules.
 
-Most of the content is based on my own experience, supplemented where
+Most of what is listed here comes from my own experience, supplemented where
 appropriate with ideas from books, articles, and other resources. Whenever I
-quote or closely reference external material, I include the original source.
+quote or closely reference someone else's work, I include the original source.
 
-The repository is a work in progress. It is being continuously expanded,
-reorganized, and refined as new ideas emerge and existing ones are improved.
+This repository is very much a work in progress, much like my own understanding
+of the software engineering. I keep expanding, reorganizing, and refining it as
+new ideas emerge and old ones get revised.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

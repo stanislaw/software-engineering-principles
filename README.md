@@ -171,6 +171,7 @@ reorganized, and refined as new ideas emerge and existing ones are improved.
   - [Provide Drivers Alongside Your Hardware](#provide-drivers-alongside-your-hardware)
   - [Provide Simulators Alongside Your Hardware](#provide-simulators-alongside-your-hardware)
 - [Documentation](#documentation)
+  - [Documentation as a Workspace, Not Just Documentation](#documentation-as-a-workspace-not-just-documentation)
   - [The Illusion of Easy Documentation](#the-illusion-of-easy-documentation)
   - [Software Design Document](#software-design-document)
   - [Less Prose, More Structure](#less-prose-more-structure)
@@ -2522,6 +2523,45 @@ development tools. If performance is critical, a C/C++/Rust simulator is also a
 great option, as these languages integrate well with embedded environments.
 
 ## Documentation
+
+### Documentation as a Workspace, Not Just Documentation
+
+Documentation can either record work that is already finished or become part of
+the work itself.
+
+Just as tests can be written before implementation (TDD) instead of only after
+the code exists, many engineering documents can also be created and used while
+the work is still in progress. In this case, the document is not just a record
+of decisions. It becomes a workspace where decisions are made, alternatives are
+evaluated, assumptions are captured, and the work gradually takes shape.
+
+When documentation is written only after everyone already understands the
+solution, it often becomes mostly reporting or bureaucracy. The document
+describes work that has already happened, but it contributes little to creating
+that work.
+
+A different approach is to use the document as the primary place where thinking
+happens. For example, a Software Development Plan can be used to develop the
+project itself rather than only describe it afterward. While writing it, the
+team defines the work breakdown structure, plans milestones, records
+assumptions, identifies risks, considers staffing, and verifies that the
+necessary tools and infrastructure are available. The document actively drives
+the project instead of simply reporting on it.
+
+Not every document can be used this way, but many engineering documents can.
+Examples include:
+
+- Software Development Plan
+- Software Requirements Specification
+- Software Architecture Document
+- Design Definition/Justification File documents
+- Software Design Document
+- Software Validation Specification
+
+When possible, treat documentation as a workspace for engineering work rather
+than as a reporting artifact. The resulting documents are usually more useful,
+more accurate, and created naturally as part of the engineering process rather
+than as an additional task afterward.
 
 ### The Illusion of Easy Documentation
 

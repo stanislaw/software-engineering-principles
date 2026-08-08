@@ -20,6 +20,7 @@ new ideas emerge and old ones get revised.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Fast Feedback](#fast-feedback)
@@ -187,6 +188,8 @@ new ideas emerge and old ones get revised.
   - [Meeting Agenda](#meeting-agenda)
   - [Present and Confirm the Agenda at the Start of the Meeting](#present-and-confirm-the-agenda-at-the-start-of-the-meeting)
   - [Balance the Agenda with the Meeting Flow](#balance-the-agenda-with-the-meeting-flow)
+  - [Balanced participation in meetings](#balanced-participation-in-meetings)
+  - [Avoid interrupting each other](#avoid-interrupting-each-other)
   - [Meeting Notes](#meeting-notes)
   - [Meeting Notes: Manual vs. Automatic](#meeting-notes-manual-vs-automatic)
   - [Capturing Meeting Results](#capturing-meeting-results)
@@ -2222,6 +2225,7 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
+
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features
@@ -2759,6 +2763,30 @@ mechanically. Sometimes it is best to bring the discussion back on track. At
 other times, it is better to let the conversation flow naturally and adjust the
 agenda to take advantage of the opportunity. The agenda is a tool to help the
 meeting, not the purpose of the meeting itself.
+
+### Balanced participation in meetings
+
+A useful meeting heuristic is **balanced participation** or **equal airtime**:
+people who need to contribute should have a reasonable chance to speak. This
+does not mean everyone has to talk for exactly the same amount of time. Some
+people will naturally speak more because of their role or expertise.
+
+Some people are also naturally more quiet and may not enter the conversation
+themselves. The facilitator should notice this and explicitly invite them to
+speak, for example: "What do you think about this?" or "Do you see any problems
+here?" This can help make sure that silence does not mean that someone has
+nothing to contribute.
+
+### Avoid interrupting each other
+
+A facilitator should watch for people interrupting each other. People have
+different discussion styles: some are comfortable with fast, competitive
+discussions, while others find interruptions irritating or disrespectful.
+
+Especially in larger groups, the default should be to **let people finish before
+responding**. The facilitator should notice repeated interruptions and, when
+needed, explicitly ask dominant interrupters to let their colleagues finish.
+This helps everyone feel heard and respected and creates a better team climate.
 
 ### Meeting Notes
 

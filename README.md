@@ -87,6 +87,7 @@ new ideas emerge and old ones get revised.
   - [0-1-2-Many II](#0-1-2-many-ii)
   - [Masking (Shadowing)](#masking-shadowing)
   - [Weighting System](#weighting-system)
+  - [Too Many Layers Dilute Understanding and Ownership](#too-many-layers-dilute-understanding-and-ownership)
 - [Design](#design)
   - [Functional Analysis and Decomposition](#functional-analysis-and-decomposition)
   - [Dump and Organize](#dump-and-organize)
@@ -1412,6 +1413,41 @@ new colleague joins an existing team, is the synchronization of the weighting
 systems that the person and the team have. Sometimes the team's weighting system
 is stronger and more rational than that of the newcomer, and sometimes it is the
 other way around.
+
+I would make the connection explicit: the problem is not layering itself, but
+excessive cognitive and organizational distance.
+
+### Too Many Layers Dilute Understanding and Ownership
+
+Too many layers can make a system difficult to understand and weaken the sense
+of ownership.
+
+The farther something is from my immediate workspace, the less likely I am to
+visit or understand it. I may also start assuming that it is handled by "someone
+else". As a result, excessive layering creates cognitive distance: understanding
+becomes harder, and ownership becomes weaker.
+
+The same pattern appears in many forms:
+
+- Too many software architecture layers result in too many software modules
+  calling into each other.
+- Too many requirements layers result in too much indirection between the
+  original need and the work being done.
+- Too many organizational layers result in too much distance between
+  decision-makers and the people doing the actual work.
+
+In a top-down layered organizational structure, this can create problems in both
+directions:
+
+- The lowest/farthest layers can lose visibility of why their work is meaningful
+  and how it serves the needs of the organization.
+- The highest layers can lose visibility into what actually happens "in the
+  field".
+
+The widespread desire for "flat hierarchies" can be understood as an attempt to
+reduce this distance: fewer layers make it easier for people to see the purpose
+of their work, understand what is happening elsewhere, and maintain a sense of
+ownership.
 
 ## Design
 

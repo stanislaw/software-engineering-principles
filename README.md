@@ -23,6 +23,7 @@ new ideas emerge and old ones get revised.
 
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
+  - [Identify and Solve Issues](#identify-and-solve-issues)
   - [Fast Feedback](#fast-feedback)
   - [Start Simple](#start-simple)
   - [Break Down Work](#break-down-work)
@@ -256,6 +257,29 @@ Examples:
 - Cleaning up a messy shared document or folder for the next person.
 - Refilling the coffee machine for others, even if you do not need a cup
   yourself.
+
+### Identify and Solve Issues
+
+Do not ignore problems you encounter in your work or environment. When you
+notice an issue, take responsibility for moving it toward resolution.
+
+Accepting mess and small problems as "just how things are" makes them accumulate
+and gradually turns a temporary problem into the normal state. If small problems
+are left unfixed, people start to accept them as normal. This is related to the
+[broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory).
+
+Solve the problem yourself when you can. Otherwise, involve the right person or
+team, escalate it when necessary, or make sure it is tracked and followed up.
+
+Examples:
+
+- Don't ignore a critical project issue. Escalate it to project management.
+- Don't ignore a bug. Fix it or make sure someone fixes it.
+- Don't ignore office mess. Clean it up or ask the responsible people to address
+  it.
+- Don't ignore a recurring organizational problem. Raise it and help find a
+  solution.
+- Don't just point out a problem. Help move it toward a resolution.
 
 ### Fast Feedback
 
